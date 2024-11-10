@@ -1,0 +1,3 @@
+0 Computer
+1 Person
+2 Bottle
