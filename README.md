@@ -65,7 +65,7 @@ This architecture ensures that the VisionMate app provides reliable, offline, re
 
 ## 🟢 Access
 
-📱 App's APK file location: [[`android/build/my-app.apk`](android/build/my-app.apk)](https://drive.google.com/file/d/15daCM6MFDDJ-EcITGsbKFV5VJ35UWqNH/view?usp=sharing)
+📱 App's APK file location: https://tinyurl.com/techpirates-download
 
 ## Presentation
 [(https://www.canva.com/design/DAGTxXxn5V4/mhbhS0H_JQ6bRbZCb8DEcw/view?utm_content=DAGTxXxn5V4&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)]
